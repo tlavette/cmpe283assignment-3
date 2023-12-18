@@ -13,27 +13,29 @@ The following was the overall effort dynamic placed in the completion of this as
 
 Tonja Jean
 
-Confirmed the VM module and kernel were successfully running.
-Performed a collaborative review of the requirements to determine the resources needed to complete for assignment-3.
-Performed code update of CPUID leaf node %eax=0x4FFFFFFC
-Test and debug Collaboration
-Performed final code refactoring and compilation.
-Collect and compile documentation.
+*Confirmed the VM module and kernel were successfully running.
+*Performed a collaborative review of the requirements to determine the resources needed to complete for assignment-3.
+*Performed code update of CPUID leaf node %eax=0x4FFFFFFC
+*Re-Build kernel module after the code changes.
+*Test and debug Collaboration
+*Performed final code refactoring and compilation.
+*Collect and compile documentation.
+
 Puja Kumari
 
-Confirmed the VM module and kernel were successfully running.
+*Confirmed the VM module and kernel were successfully running.
 
-Performed a collaborative review of the requirements to determine the resources needed to complete for assignment-3.
+*Performed a collaborative review of the requirements to determine the resources needed to complete for assignment-3.
 
-Verified the Nested VM running properly.
+*Verified the Nested VM running properly.
 
-Performed code update of CPUID leaf node %eax=0x4FFFFFFD
+*Performed code update of CPUID leaf node %eax=0x4FFFFFFD
 
-Created and compiled test program
+*Created and compiled test program
 
-Test and debug Collaboration
+*Test and debug Collaboration
 
-Collect and compile documentation.
+*Collect and compile documentation.
 
 
 
