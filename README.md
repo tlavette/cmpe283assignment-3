@@ -51,19 +51,4 @@ The following was the overall effort dynamic placed in the completion of this as
 
 
 
-# Modify the CPUID emulation code in KVM
-
-
-
-**CPUID leaf node %eax=0x4FFFFFFD**
-
-Results:
-
-Issues:
-
-**CPUID leaf node %eax=0x4FFFFFFC**
-
-Results:
-
-Issues:
-
+# Detailed Document with the all the setp followed and questions answered is included in the github repo.
