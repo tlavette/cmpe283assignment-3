@@ -48,4 +48,4 @@ The following was the overall effort dynamic placed in the completion of this as
 * Collect and compile documentation.
 
 
-# Detailed Document with all the steps followed and answers for questions(1-4) is included in the github repo, filename - CMPE283Assignment_3.pdf
+# Detailed Document with all the steps followed and answers for questions(1-4) is included in the github repo, filename- CMPE283Assignment_3.pdf
