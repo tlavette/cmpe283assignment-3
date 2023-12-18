@@ -48,7 +48,4 @@ The following was the overall effort dynamic placed in the completion of this as
 * Collect and compile documentation.
 
 
-
-
-
-# Detailed Document with the all the setp followed and questions answered is included in the github repo.
+# Detailed Document with the all the steps followed and answers for questions(1-4) is included in the github repo.
